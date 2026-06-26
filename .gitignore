@@ -1,0 +1,21 @@
+# Personal / source files not part of the published site
+uploads/
+.thumbnail
+
+# Unused review/screenshot artifacts (only avatar.png is referenced)
+screens/01-review.png
+screens/02-review.png
+screens/03-review.png
+screens/04-review.png
+screens/05-review.png
+screens/check.png
+screens/headshot.jpeg
+screens/real.png
+screens/techy.png
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store
+
+# gstack runtime/session files (contains local tokens)
+.gstack/
